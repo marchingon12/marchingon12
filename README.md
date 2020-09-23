@@ -4,7 +4,8 @@
 
 Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community. I'm planning on using GitHub more often. 
 
-I like watching anime :tv:, reading books :book: and manga, enjoy making food 🍝 (and of course eating) and playing badminton :badminton:.\
+I like watching anime :tv:, reading books :book: and manga, enjoy making food 🍝 (and of course eating) and playing badminton :badminton:.
+ 
 Also, I love cats :cat:.
 
 ## What I'm Doing
