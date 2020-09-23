@@ -16,7 +16,11 @@ Also, I've started writing a blog about things I've done or found worthy to writ
  
 - **Currently learning: Bash, HTML, Python :snake:**
 
-![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&theme=dark)\
+### Recommended editors
+[![Atom](https://img.shields.io/badge/atom-green.svg?style=for-the-badge&logo=atom)](https://atom.io/)
+[![Visual Studio](https://img.shields.io/badge/VisualStudioCode-1da1f2.svg?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
+
+![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&theme=dark)
 
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
