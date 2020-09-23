@@ -2,7 +2,7 @@
 
 ## Who I Am
 
-Hi, I'm a German bachelor student learning compputer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community. I'm planning on using GitHub more often as my studies prolong.
+Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community. I'm planning on using GitHub more often as my studies prolong.
 
 ## What I'm Doing
 
