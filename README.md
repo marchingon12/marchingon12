@@ -1,6 +1,14 @@
-### Howdy, here's Austin! 😄
+### Howdy, it's Austin! 🤙
 
-- Languages learnt: C, Java, SQLite, Python :snake:
+**Languages learnt: C, Java, SQLite**
+ 
+**Currently learning: Bash, Python :snake:**
+
+![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&theme=dark)
+
+
+[![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
+
 
 <!--
 **marchingon12/marchingon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
