@@ -2,6 +2,8 @@
 
 Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community.
 
+## Programming Languages:
+
 - **Languages learnt: C, Java, SQLite, Markdown**
  
 - **Currently learning: Bash, HTML, Python :snake:**
