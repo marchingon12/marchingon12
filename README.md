@@ -6,7 +6,7 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 
 - **Languages learnt: C, Java, SQLite, Markdown**
  
-- **Currently learning: Bash, HTML, Python :snake:**
+- **Currently learning: Bashscript, HTML, Python :snake:**
 
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
