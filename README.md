@@ -21,6 +21,7 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
+[![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12)
 
 
 <!--
