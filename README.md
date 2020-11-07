@@ -22,7 +22,7 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
 [![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12)
   
-<img style="float: right;" src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/ezgif.com-resize.gif"/>
+<img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/ezgif.com-resize.gif" align="right" />
 
 
 
