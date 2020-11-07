@@ -13,7 +13,6 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 [![Visual Studio](https://img.shields.io/badge/VisualStudioCode-1da1f2.svg?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
 
 ![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&theme=dark)
-<img style="float: right;" src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/1pLo.gif">
 <!--- 
 Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md, this is a gradient card. Edit colors if you'd like.
 ![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&bg_color=30,FFDEE9,B5FFFC&title_color=000000&text_color=2b2b2b&icon_color=ff009e) 
@@ -22,6 +21,8 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
 [![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12)
+  
+<img style="float: right;" src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/ezgif.com-resize.gif"/>
 
 
 
