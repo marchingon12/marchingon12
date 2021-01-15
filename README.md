@@ -15,7 +15,7 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 - **🚴‍♂️ Biking**: Apart from all that, I ride a bike that's meant for mountain-biking but I use it everywhere.
 - **👨‍🍳 Cooking & baking**: I might not be great at it, but it's fun! 
 
-## 🧑‍💻 Programming Languages:
+## 👨‍💻 Programming Languages:
 
 - **Languages learnt**: C, Java, SQLite, Markdown
  
