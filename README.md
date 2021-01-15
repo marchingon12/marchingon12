@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/kiminonawa2.jpg">
 </div>
 
-# Howdy, it's Austin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+# Howdy, it's Austin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community.
 
