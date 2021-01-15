@@ -9,7 +9,7 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 
 ## Interests:
 
-- **🖥 Anime forever!**: I love watching anime. My fouvourites are: Demon Slayer, Plastic Memories, A Whisker Away, Blue Exorcist, Fire Force, Re:Zero, Ajin - Demi-Human, SAO... (ONLY SUBBED, NEVER DUBBED :smile:)
+- **🖥 Anime forever!**: I love watching anime. My favourites are: Demon Slayer, Plastic Memories, A Whisker Away, Blue Exorcist, Fire Force, Re:Zero, Ajin - Demi-Human, SAO... (ONLY SUBBED, NEVER DUBBED :smile:)
 - **📚 Reading manga**: I started reading manga when I was 6. The very first one I read was Dragon Ball. Ever since then I couldn't stop reading and discover new ones!
 - **📖 Books**: Most of my reading genres are Fantasy, Mystery, Thriller, Romance.
 - **🚴‍♂️ Biking**: Apart from all that, I ride a bike that's meant for mountain-biking but I use it everywhere.
