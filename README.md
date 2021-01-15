@@ -27,12 +27,9 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
 [![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12) <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
 
-
-![black-white-neko.svg](https://github.com/marchingon12/marchingon12/black-white-neko.svg)]
-
 <div align="center">
   <a href="https://github.io/marchingon12">
-    <img src="https://github.com/marchingon12/marchingon12/black-white-neko.svg">
+    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/23e383e72595fd77af3434815b0acbd5e02f61f0/black-white-neko.svg">
   </a>
 </div>
 
