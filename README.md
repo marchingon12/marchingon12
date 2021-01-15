@@ -1,3 +1,8 @@
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/kiminonawa2.jpg">
+</div>
+
 # Howdy, it's Austin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community.
@@ -29,7 +34,7 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
 <div align="center">
   <a href="https://github.io/marchingon12">
-    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/23e383e72595fd77af3434815b0acbd5e02f61f0/black-white-neko.svg">
+    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/black-white-neko.svg">
   </a>
 </div>
 
