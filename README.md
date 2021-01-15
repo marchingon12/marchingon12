@@ -30,16 +30,13 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 ## 📬 Social media
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
-[![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12) <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
+[![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12) 
 
-<div align="center>
-   <p align="left">
-     <img src="https://i.imgur.com/LQe39Q2.gif" width="175px">
-   </p>
-   <p align="center">
-      <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/black-white-neko.svg">
-   </p>
-</div>
+<p>
+   <img src="https://i.imgur.com/LQe39Q2.gif" width="120px" align="left">
+   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/black-white-neko.svg" width="120px" align="center">
+   <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="center" width="120px">
+</p>
 
 <!--
 **marchingon12/marchingon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
