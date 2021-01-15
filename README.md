@@ -4,9 +4,11 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 
 ## 🧑‍💻 Programming Languages:
 
-- **Languages learnt: C, Java, SQLite, Markdown**
+- **Languages learnt**: C, Java, SQLite, Markdown
  
-- **Currently learning: Bashscript, HTML, JavaScript, Python :snake:**
+- **Currently learning**: Bashscript, HTML, JavaScript, Python :snake:
+
+- **Currently maintaining**: [Perry](https://github.com/marchingon12/Perry)
 
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
@@ -24,8 +26,6 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@austinsama_12)
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/BlogByAustinSama)
 [![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12) <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
-
-
 
 
 <!--
