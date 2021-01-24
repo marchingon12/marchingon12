@@ -19,7 +19,7 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 
 - **Languages learnt**: C, Java, SQLite, Markdown
 - **Currently learning**: Bashscript, HTML, JavaScript, Python :snake:
-- **Currently maintaining**: [Perry](https://github.com/marchingon12/Perry)
+- **Currently maintaining**: [Perry](https://github.com/marchingon12/Perry), [AuroraWiki](https://github.com/marchingon12/AuroraWiki), [AuroraOSS](https://github.com/marchingon12/AuroraOSS)
 
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
