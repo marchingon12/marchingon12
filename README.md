@@ -41,9 +41,9 @@ Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 [![Austin Hornhead's DEV Profile](https://img.shields.io/badge/dev-black.svg?style=for-the-badge&logo=dev.to)](https://dev.to/marchingon12) 
 
 <p>
-   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/dark-teal-neko.svg" width="120px" align="left">
-   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/black-white-neko.svg" width="120px" align="center">
-   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/light-blue-neko.svg" width="120px" align="center">
+   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/dark-teal-neko.svg" width="120px" align="left">
+   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/black-white-neko.svg" width="120px" align="center">
+   <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/light-blue-neko.svg" width="120px" align="center">
    <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="70px">
 </p>
 
