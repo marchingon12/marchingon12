@@ -7,7 +7,7 @@
 
 Hi, I'm a German bachelor student learning computer science in Germany. I first learned programming from other people online, exploring the vast majority of Android Custom ROMs, creating basic Android applications and joining the open-source community.
 
-## Interests:
+## 🌟 Interests:
 
 - **🖥 Anime forever!**: I love watching anime. My favourites are: Demon Slayer, Plastic Memories, A Whisker Away, Blue Exorcist, Fire Force, Re:Zero, Ajin - Demi-Human, SAO... (ONLY SUBBED, NEVER DUBBED :smile:)
 - **📚 Reading manga**: I started reading manga when I was 6. The very first one I read was Dragon Ball. Ever since then I couldn't stop reading and discover new ones!
@@ -15,7 +15,7 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 - **🚴‍♂️ Biking**: Apart from all that, I ride a bike that's meant for mountain-biking but I use it everywhere.
 - **👨‍🍳 Cooking & baking**: I might not be great at it, but it's fun! 
 
-## 👨‍💻 Programming Languages:
+## 👨‍💻 Programming:
 
 - **Languages learnt**: C, Java, SQLite, Markdown
  
