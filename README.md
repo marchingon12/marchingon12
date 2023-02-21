@@ -15,15 +15,9 @@ Hi, I'm a German bachelor student learning computer science in Germany. I first 
 - **🚴‍♂️ Biking**: Apart from all that, I ride a bike that's meant for mountain-biking but I use it everywhere.
 - **👨‍🍳 Cooking & baking**: I might not be great at it, but it's fun! 
 
-## 👨‍💻 Programming:
+## 👨‍💻 Tech Stack:
 
-- **Languages learnt**: C, Java, SQLite, Markdown
-- **Currently learning**: Bashscript, HTML, JavaScript, Python :snake:
-- **Currently maintaining**: [Perry](https://github.com/marchingon12/Perry), [AuroraWiki](https://github.com/marchingon12/AuroraWiki), [AuroraOSS](https://github.com/marchingon12/AuroraOSS)
-
-### Recommended editors
-[![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
-[![Visual Studio](https://img.shields.io/badge/VisualStudioCode-1da1f2.svg?style=for-the-badge&logo=visual-studio-code)](https://vscodium.com/)
+![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,androidstudio,vscode,linux,python,react,vue,kotlin,c,flask,githubactions,sqlite,mysql,mongodb,postgres)
 
 ## 🐙 GitHub Stats
 
