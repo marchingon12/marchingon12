@@ -5,7 +5,7 @@
 
 # Howdy, it's Austin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-Hi, I'm a German bachelor student studying Food Packaging Design in Germany. I initially learned programming by engaging with online communities, exploring various Android Custom ROMs, developing basic Android applications, and becoming involved in the open-source community. Over time, it has evolved into a personal hobby. Currently, I am delving into the world of AI, particularly focusing on locally hosted variants such as Llama 3.1, Stable Diffusion, and Flux 1.
+Hi, I'm a German bachelor student studying Food Packaging Design in Germany. I initially learned programming by engaging with online communities, exploring various Android Custom ROMs, developing basic Android applications, and becoming involved in the open-source community. Over time, it has evolved into a personal hobby. Currently, I am delving into the world of AI / Self-Hosting.
 
 ## 👨‍💻 Tech Stack:
 
@@ -13,11 +13,7 @@ Hi, I'm a German bachelor student studying Food Packaging Design in Germany. I i
 
 ## 🐙 GitHub Stats
 
-![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&theme=dark)
-<!--- 
-Taken from https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md, this is a gradient card. Edit colors if you'd like.
-![Austin Hornhead's github stats](https://github-readme-stats.vercel.app/api?username=marchingon12&show_icons=true&bg_color=30,FFDEE9,B5FFFC&title_color=000000&text_color=2b2b2b&icon_color=ff009e) 
--->
+<img src="https://raw.githubusercontent.com/marchingon12/github-stats-transparent/output/generated/overview.svg" width="49%" /><img src="https://raw.githubusercontent.com/marchingon12/github-stats-transparent/output/generated/languages.svg" width="49%" />
 
 <p>
    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/dark-teal-neko.svg" width="120px" align="left">
