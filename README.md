@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/kiminonawa2.jpg">
+    <img src="https://githubcard.com/marchingon12.svg?d=YBaTPYTdxlQ8">
 </div>
 
 # Howdy, it's Austin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
@@ -10,11 +10,6 @@ Hi, I'm a German bachelor student studying Food Packaging Design in Germany. I i
 ## 👨‍💻 Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,sass,androidstudio,vscode,linux,python,react,vue,kotlin,c,flask,githubactions,sqlite,mysql,mongodb,postgres)
-
-## 🐙 GitHub Stats
-
-<img src="https://raw.githubusercontent.com/marchingon12/github-stats-transparent/output/generated/overview.svg" width="49%" /><img src="https://raw.githubusercontent.com/marchingon12/github-stats-transparent/output/generated/languages.svg" width="49%" />
-
 <p>
    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/dark-teal-neko.svg" width="120px" align="left">
    <img src="https://raw.githubusercontent.com/marchingon12/marchingon12/master/.assets/black-white-neko.svg" width="120px" align="center">
